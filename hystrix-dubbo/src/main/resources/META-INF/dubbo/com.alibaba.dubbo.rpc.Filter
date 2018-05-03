@@ -1,0 +1,1 @@
+hystrix=com.wotaiyang.hystrix.dubbo.rpc.filter.HystrixFilter
